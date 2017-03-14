@@ -1,0 +1,2969 @@
+{
+    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703",
+    "position": [
+        {
+            "name": "\u4e3b\u5e2d",
+            "level": "\u8ecd\u59d4\u59d4\u54e1\u7d1a"
+        },
+        {
+            "name": "\u526f\u4e3b\u5e2d",
+            "level": "\u8ecd\u59d4\u59d4\u54e1\u7d1a"
+        },
+        {
+            "name": "\u59d4\u54e1",
+            "level": ""
+        }
+    ],
+    "children": [
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u8fa6\u516c\u5ef3",
+            "position": [
+                {
+                    "name": "\u4e3b\u4efb",
+                    "level": "\u9ad8\u914d\u526f\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u526f\u4e3b\u4efb",
+                    "level": "\u526f\u8ecd\u7d1a"
+                }
+            ],
+            "children": []
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u806f\u5408\u53c3\u8b00\u90e8",
+            "position": [
+                {
+                    "name": "\u53c3\u8b00\u9577",
+                    "level": "\u8ecd\u59d4\u59d4\u54e1\u7d1a"
+                },
+                {
+                    "name": "\u526f\u53c3\u8b00\u9577",
+                    "level": "\u6b63\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u53c3\u8b00\u9577\u52a9\u7406",
+                    "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u806f\u5408\u53c3\u8b00\u90e8\u4f5c\u6230\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u806f\u5408\u53c3\u8b00\u90e8\u4f5c\u6230\u5c40\u7a7a\u7ba1\u8655",
+                            "position": [
+                                {
+                                    "name": "\u8655\u9577",
+                                    "level": "\u526f\u5e2b\u7d1a\u4ee5\u4e0a\uff0c\u53ef\u80fd\u6b63\u5e2b\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u8655\u9577",
+                                    "level": "\u4e0d\u78ba\u5b9a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u59d4\u806f\u5408\u53c3\u8b00\u90e8\u653f\u6cbb\u5de5\u4f5c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u806f\u5408\u53c3\u8b00\u90e8\u6230\u5834\u74b0\u5883\u4fdd\u969c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u806f\u5408\u53c3\u8b00\u90e8\u4fe1\u606f\u901a\u4fe1\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u59d4\u806f\u5408\u53c3\u8b00\u90e8\u60c5\u5831\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u5c08\u54e1",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u59d4\u806f\u5408\u53c3\u8b00\u90e8\u5c0e\u822a\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u806f\u5408\u53c3\u8b00\u90e8\u8b66\u885b\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a\uff0c\u9996\u9577\u9ad8\u914d\u526f\u5927\u8ecd\u5340"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cbb\u5de5\u4f5c\u90e8",
+            "position": [
+                {
+                    "name": "\u4e3b\u4efb",
+                    "level": "\u8ecd\u59d4\u59d4\u54e1\u7d1a"
+                },
+                {
+                    "name": "\u526f\u4e3b\u4efb",
+                    "level": "\u6b63\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u4e3b\u4efb\u52a9\u7406",
+                    "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cbb\u5de5\u4f5c\u90e8\u8fa6\u516c\u5ef3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cbb\u5de5\u4f5c\u90e8\u5ba3\u50b3\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cbb\u5de5\u4f5c\u90e8\u7fa4\u773e\u5de5\u4f5c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cbb\u5de5\u4f5c\u90e8\u7d44\u7e54\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cbb\u5de5\u4f5c\u90e8\u5175\u54e1\u8207\u6587\u8077\u4eba\u54e1\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cbb\u5de5\u4f5c\u90e8\u7db2\u8def\u8f3f\u8ad6\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cbb\u5de5\u4f5c\u90e8\u76f4\u5c6c\u5de5\u4f5c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cbb\u5de5\u4f5c\u90e8\u5e79\u90e8\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cbb\u5de5\u4f5c\u90e8\u8001\u5e79\u90e8\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5831\u793e",
+                    "position": [
+                        {
+                            "name": "\u793e\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u7e3d\u7de8\u8f2f",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u793e\u9577",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5831\u793e\u653f\u6cbb\u5de5\u4f5c\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5f8c\u52e4\u4fdd\u969c\u90e8",
+            "position": [
+                {
+                    "name": "\u90e8\u9577",
+                    "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u526f\u90e8\u9577",
+                    "level": "\u6b63\u8ecd\u7d1a"
+                },
+                {
+                    "name": "\u653f\u59d4",
+                    "level": ""
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5f8c\u52e4\u4fdd\u969c\u90e8\u653f\u6cbb\u5de5\u4f5c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5f8c\u52e4\u4fdd\u969c\u90e8\u8fa6\u516c\u5ef3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5f8c\u52e4\u4fdd\u969c\u90e8\u885b\u751f\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5f8c\u52e4\u4fdd\u969c\u90e8\u8ecd\u9700\u80fd\u6e90\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5f8c\u52e4\u4fdd\u969c\u90e8\u7d9c\u5408\u8a08\u5283\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5f8c\u52e4\u4fdd\u969c\u90e8\u904b\u8f38\u6295\u9001\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5f8c\u52e4\u88dc\u969c\u90e8\u8ecd\u4e8b\u8a2d\u65bd\u5efa\u8a2d\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5f8c\u52e4\u88dc\u969c\u90e8\u76f4\u5c6c\u4f9b\u61c9\u4fdd\u969c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5f8c\u52e4\u88dc\u969c\u90e8\u8ca1\u52d9\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u8ecd\u968a\u548c\u6b66\u8b66\u90e8\u968a\u5168\u9762\u505c\u6b62\u6709\u511f\u670d\u52d9\u5de5\u4f5c\u9818\u5c0e\u5c0f\u7d44\u8fa6\u516c\u5ba4",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u53c3\u8b00\u9577",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u8ecd\u4e8b\u91ab\u5b78\u79d1\u5b78\u9662",
+                    "position": [
+                        {
+                            "name": "\u9662\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u9662\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8",
+            "position": [
+                {
+                    "name": "\u90e8\u9577",
+                    "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u526f\u90e8\u9577",
+                    "level": "\u6b63\u8ecd\u7d1a"
+                },
+                {
+                    "name": "\u653f\u59d4",
+                    "level": ""
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8\u8fa6\u516c\u5ef3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8\u653f\u6cbb\u5de5\u4f5c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8\u7d9c\u5408\u8a08\u756b\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8\u4fe1\u606f\u7cfb\u7d71\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8\u570b\u9632\u77e5\u8b58\u7522\u6b0a\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8\u88dd\u5099\u6280\u8853\u5408\u4f5c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8\u8ecd\u4e8b\u4ee3\u8868\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8\u8f09\u4eba\u822a\u5929\u5de5\u7a0b\u8fa6\u516c\u5ba4",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8\u79d1\u7814\u8a02\u8cfc\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u88dd\u5099\u767c\u5c55\u90e8\u5408\u540c\u76e3\u7ba1\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u8a13\u7df4\u7ba1\u7406\u90e8",
+            "position": [
+                {
+                    "name": "\u90e8\u9577",
+                    "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u526f\u90e8\u9577",
+                    "level": "\u6b63\u8ecd\u7d1a"
+                },
+                {
+                    "name": "\u653f\u59d4",
+                    "level": ""
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u8a13\u7df4\u7ba1\u7406\u90e8\u8fa6\u516c\u5ef3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u8a13\u7df4\u7ba1\u7406\u90e8\u653f\u6cbb\u5de5\u4f5c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u8a13\u7df4\u7ba1\u7406\u90e8\u8a13\u7df4\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u8a13\u7df4\u7ba1\u7406\u90e8\u8077\u696d\u6559\u80b2\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u8a13\u7df4\u7ba1\u7406\u90e8\u9662\u6821\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u8a13\u7df4\u7ba1\u7406\u90e8\u8a13\u7df4\u76e3\u5bdf\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u4fe1\u606f\u5de5\u7a0b\u5927\u5b78",
+                    "position": [
+                        {
+                            "name": "\u6821\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u6821\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u7b2c\u4e8c\u8ecd\u91ab\u5927\u5b78",
+                    "position": [
+                        {
+                            "name": "\u6821\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u6821\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u7b2c\u4e09\u8ecd\u91ab\u5927\u5b78",
+                    "position": [
+                        {
+                            "name": "\u6821\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u6821\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u88dd\u5099\u5b78\u9662",
+                    "position": [
+                        {
+                            "name": "\u6821\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u6821\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5f8c\u52e4\u5b78\u9662",
+                    "position": [
+                        {
+                            "name": "\u6821\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u6821\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u8ecd\u4e8b\u7d93\u6fdf\u5b78\u9662",
+                    "position": [
+                        {
+                            "name": "\u6821\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u6821\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u897f\u5b89\u653f\u6cbb\u5b78\u9662",
+                    "position": [
+                        {
+                            "name": "\u9662\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u9662\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5357\u4eac\u653f\u6cbb\u5b78\u9662",
+                    "position": [
+                        {
+                            "name": "\u9662\u9577",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u9662\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u8ecd\u4e8b\u4ea4\u901a\u5b78\u9662",
+                    "position": [
+                        {
+                            "name": "\u9662\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u9662\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u7b2c\u56db\u8ecd\u91ab\u5927\u5b78",
+                    "position": [
+                        {
+                            "name": "\u6821\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u6821\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u570b\u9632\u52d5\u54e1\u90e8",
+            "position": [
+                {
+                    "name": "\u90e8\u9577",
+                    "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u526f\u90e8\u9577",
+                    "level": "\u6b63\u8ecd\u7d1a"
+                },
+                {
+                    "name": "\u653f\u59d4",
+                    "level": ""
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u570b\u9632\u52d5\u54e1\u90e8\u653f\u6cbb\u5de5\u4f5c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u570b\u9632\u52d5\u54e1\u90e8\u8fa6\u516c\u5ef3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u570b\u9632\u52d5\u54e1\u90e8\u4eba\u9632\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u570b\u9632\u52d5\u54e1\u90e8\u908a\u9632\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u570b\u9632\u52d5\u54e1\u90e8\u6c11\u5175\u9810\u5099\u5f79\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u570b\u9632\u52d5\u54e1\u90e8\u52d5\u54e1\u5fb5\u96c6\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u6c5f\u8607\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6c5f\u8607\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6c5f\u8607\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u6d59\u6c5f\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6d59\u6c5f\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6d59\u6c5f\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5b89\u5fbd\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5b89\u5fbd\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5b89\u5fbd\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u798f\u5efa\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u798f\u5efa\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u798f\u5efa\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u6c5f\u897f\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6c5f\u897f\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6c5f\u897f\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u4e0a\u6d77\u8b66\u5099\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u4e0a\u6d77\u5e02\u8b66\u5099\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u4e0a\u6d77\u5e02\u8b66\u5099\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u56db\u5ddd\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u56db\u5ddd\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u56db\u5ddd\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u965d\u897f\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u965d\u897f\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u965d\u897f\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u9752\u6d77\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u9752\u6d77\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u9752\u6d77\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5be7\u590f\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5be7\u590f\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5be7\u590f\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u7518\u8085\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u7518\u8085\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u7518\u8085\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u91cd\u6176\u8b66\u5099\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u91cd\u6176\u8b66\u5099\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u91cd\u6176\u8b66\u5099\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5ee3\u6771\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5ee3\u6771\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5ee3\u6771\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u6e56\u5357\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6e56\u5357\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6e56\u5357\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5ee3\u897f\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5ee3\u897f\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5ee3\u897f\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u6d77\u5357\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6d77\u5357\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6d77\u5357\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u96f2\u5357\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u96f2\u5357\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u96f2\u5357\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u8cb4\u5dde\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u8cb4\u5dde\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u8cb4\u5dde\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u907c\u5be7\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u907c\u5be7\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u907c\u5be7\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5409\u6797\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5409\u6797\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5409\u6797\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u9ed1\u9f8d\u6c5f\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u9ed1\u9f8d\u6c5f\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u9ed1\u9f8d\u6c5f\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5167\u8499\u53e4\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5167\u8499\u53e4\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5167\u8499\u53e4\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u6cb3\u5317\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6cb3\u5317\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6cb3\u5317\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u6cb3\u5357\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6cb3\u5357\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6cb3\u5357\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5c71\u6771\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5c71\u6771\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5c71\u6771\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5c71\u897f\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5c71\u897f\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5c71\u897f\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u6e56\u5317\u7701\u8ecd\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6e56\u5317\u7701\u8ecd\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u6e56\u5317\u7701\u8ecd\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "department": "\u89e3\u653e\u8ecd\u5929\u6d25\u8b66\u5099\u5340",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": "\u6b63\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": [
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5929\u6d25\u8b66\u5099\u5340\u53f8\u4ee4\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u53c3\u8b00\u9577",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u53c3\u8b00\u9577",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        },
+                        {
+                            "department": "\u89e3\u653e\u8ecd\u5929\u6d25\u8b66\u5099\u5340\u653f\u6cbb\u90e8",
+                            "position": [
+                                {
+                                    "name": "\u4e3b\u4efb",
+                                    "level": "\u526f\u8ecd\u7d1a"
+                                },
+                                {
+                                    "name": "\u526f\u4e3b\u4efb",
+                                    "level": "\u6b63\u5e2b\u7d1a"
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u7d00\u5f8b\u6aa2\u67e5\u59d4\u54e1\u6703",
+            "position": [
+                {
+                    "name": "\u66f8\u8a18",
+                    "level": "\u6b63\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u5c08\u8077\u526f\u66f8\u8a18",
+                    "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u526f\u66f8\u8a18",
+                    "level": ""
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u7d00\u5f8b\u6aa2\u67e5\u59d4\u54e1\u6703\u8fa6\u516c\u5ef3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u7d00\u5f8b\u6aa2\u67e5\u59d4\u54e1\u6703\u99d0\u6771\u90e8\u6230\u5340\u7d00\u6aa2\u7d44",
+                    "position": [
+                        {
+                            "name": "\u7d44\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u7d44\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u7d00\u5f8b\u6aa2\u67e5\u59d4\u54e1\u6703\u99d0\u897f\u90e8\u6230\u5340\u7d00\u6aa2\u7d44",
+                    "position": [
+                        {
+                            "name": "\u7d44\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u7d44\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u7d00\u5f8b\u6aa2\u67e5\u59d4\u54e1\u6703\u99d0\u5317\u90e8\u6230\u5340\u7d00\u6aa2\u7d44",
+                    "position": [
+                        {
+                            "name": "\u7d44\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u7d44\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u7d00\u5f8b\u6aa2\u67e5\u59d4\u54e1\u6703\u99d0\u5357\u90e8\u6230\u5340\u7d00\u6aa2\u7d44",
+                    "position": [
+                        {
+                            "name": "\u7d44\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u7d44\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u7d00\u5f8b\u6aa2\u67e5\u59d4\u54e1\u6703\u99d0\u4e2d\u90e8\u6230\u5340\u7d00\u6aa2\u7d44",
+                    "position": [
+                        {
+                            "name": "\u7d44\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u7d44\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u7d00\u5f8b\u6aa2\u67e5\u59d4\u54e1\u6703\u6848\u4ef6\u5be9\u7406\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cd5\u59d4\u54e1\u6703",
+            "position": [
+                {
+                    "name": "\u66f8\u8a18",
+                    "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u5c08\u8077\u526f\u66f8\u8a18",
+                    "level": "\u6b63\u8ecd\u7d1a"
+                },
+                {
+                    "name": "\u59d4\u54e1",
+                    "level": ""
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cd5\u59d4\u54e1\u6703\u7d9c\u5408\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u653f\u6cd5\u59d4\u54e1\u6703\u4fdd\u885b\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u570b\u4eba\u6c11\u89e3\u653e\u8ecd\u8ecd\u4e8b\u6aa2\u5bdf\u9662",
+                    "position": [
+                        {
+                            "name": "\u6aa2\u5bdf\u9577",
+                            "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u570b\u4eba\u6c11\u89e3\u653e\u8ecd\u8ecd\u4e8b\u6cd5\u9662",
+                    "position": [
+                        {
+                            "name": "\u9662\u9577",
+                            "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u9662\u9577",
+                            "level": "\u526f\u8ecd\u7d1a"
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u79d1\u5b78\u6280\u8853\u59d4\u54e1\u6703",
+            "position": [
+                {
+                    "name": "\u4e3b\u4efb",
+                    "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u526f\u4e3b\u4efb",
+                    "level": "\u6b63\u8ecd\u7d1a"
+                },
+                {
+                    "name": "\u5e38\u4efb\u59d4\u54e1",
+                    "level": ""
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u79d1\u5b78\u6280\u8853\u59d4\u54e1\u6703\u79d1\u6280\u5275\u65b0\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u79d1\u5b78\u6280\u8853\u59d4\u54e1\u6703\u79d1\u6280\u6230\u7565\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6230\u7565\u898f\u5283\u8fa6\u516c\u5ba4",
+            "position": [
+                {
+                    "name": "\u4e3b\u4efb",
+                    "level": "\u6b63\u8ecd\u7d1a"
+                },
+                {
+                    "name": "\u526f\u4e3b\u4efb",
+                    "level": "\u526f\u8ecd\u7d1a"
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6230\u7565\u898f\u5283\u8fa6\u516c\u5ba4\u7db2\u7d61\u4fe1\u606f\u7d71\u7c4c\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6230\u7565\u898f\u5283\u8fa6\u516c\u5ba4\u8ecd\u6c11\u878d\u5408\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u6b63\u5e2b\u7d1a"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u526f\u5e2b\u7d1a"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6230\u7565\u898f\u5283\u8fa6\u516c\u5ba4\u7d9c\u5408\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6539\u9769\u548c\u7de8\u5236\u8fa6\u516c\u5ba4",
+            "position": [
+                {
+                    "name": "\u4e3b\u4efb",
+                    "level": "\u526f\u5927\u8ecd\u5340\u7d1a"
+                },
+                {
+                    "name": "\u526f\u4e3b\u4efb",
+                    "level": "\u526f\u8ecd\u7d1a"
+                }
+            ],
+            "children": []
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u570b\u969b\u8ecd\u4e8b\u5408\u4f5c\u8fa6\u516c\u5ba4",
+            "position": [
+                {
+                    "name": "\u4e3b\u4efb",
+                    "level": "\u6b63\u8ecd\u7d1a"
+                },
+                {
+                    "name": "\u526f\u4e3b\u4efb",
+                    "level": "\u526f\u8ecd\u7d1a"
+                }
+            ],
+            "children": []
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5be9\u8a08\u7f72",
+            "position": [
+                {
+                    "name": "\u5be9\u8a08\u9577",
+                    "level": "\u6b63\u8ecd\u7d1a"
+                },
+                {
+                    "name": "\u526f\u5be9\u8a08\u9577",
+                    "level": "\u526f\u8ecd\u7d1a"
+                }
+            ],
+            "children": []
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6a5f\u95dc\u4e8b\u52d9\u7ba1\u7406\u7e3d\u5c40",
+            "position": [
+                {
+                    "name": "\u5c40\u9577",
+                    "level": "\u6b63\u8ecd\u7d1a"
+                },
+                {
+                    "name": "\u526f\u5c40\u9577",
+                    "level": "\u526f\u8ecd\u7d1a"
+                }
+            ],
+            "children": [
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6a5f\u95dc\u4e8b\u52d9\u7ba1\u7406\u7e3d\u5c40\u7d9c\u5408\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6a5f\u95dc\u4e8b\u52d9\u7ba1\u7406\u7e3d\u5c40\u8ca1\u52d9\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6a5f\u95dc\u4e8b\u52d9\u7ba1\u7406\u7e3d\u5c40\u71df\u623f\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u7e3d\u5de5\u7a0b\u5e2b",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6a5f\u95dc\u4e8b\u52d9\u7ba1\u7406\u7e3d\u5c40\u885b\u751f\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6a5f\u95dc\u4e8b\u52d9\u7ba1\u7406\u7e3d\u5c40\u670d\u52d9\u5c40",
+                    "position": [
+                        {
+                            "name": "\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        },
+                        {
+                            "name": "\u526f\u5c40\u9577",
+                            "level": "\u5f85\u67e5\u8b49"
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u6539\u9769\u9818\u5c0e\u5c0f\u7d44",
+            "position": [],
+            "children": []
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u5de1\u8996\u7d44",
+            "position": [
+                {
+                    "name": "\u5de1\u8996\u5c08\u54e1",
+                    "level": ""
+                }
+            ],
+            "children": []
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u8d74\u6b66\u8b66\u90e8\u968a\u5de1\u8996\u7d44",
+            "position": [
+                {
+                    "name": "\u7d44\u9577",
+                    "level": ""
+                },
+                {
+                    "name": "\u526f\u7d44\u9577",
+                    "level": ""
+                }
+            ],
+            "children": []
+        },
+        {
+            "department": "\u4e2d\u5171\u4e2d\u592e\u8ecd\u4e8b\u59d4\u54e1\u6703\u806f\u52e4\u4fdd\u969c\u90e8\u968a",
+            "position": [],
+            "children": [
+                {
+                    "department": "\u6b66\u6f22\u806f\u52e4\u4fdd\u969c\u57fa\u5730",
+                    "position": [
+                        {
+                            "name": "\u53f8\u4ee4\u54e1",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u526f\u53f8\u4ee4\u54e1",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u7121\u932b\u806f\u52e4\u4fdd\u969c\u4e2d\u5fc3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u6842\u6797\u806f\u52e4\u4fdd\u969c\u4e2d\u5fc3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u897f\u5be7\u806f\u52e4\u4fdd\u969c\u4e2d\u5fc3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u700b\u967d\u806f\u52e4\u4fdd\u969c\u4e2d\u5fc3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "department": "\u912d\u5dde\u806f\u52e4\u4fdd\u969c\u4e2d\u5fc3",
+                    "position": [
+                        {
+                            "name": "\u4e3b\u4efb",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u526f\u4e3b\u4efb",
+                            "level": ""
+                        },
+                        {
+                            "name": "\u653f\u59d4",
+                            "level": ""
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "department": "\u570b\u9632\u90e8\u7dad\u548c\u4e8b\u52d9\u8fa6\u516c\u5ba4",
+            "position": [
+                {
+                    "name": "\u4e3b\u4efb",
+                    "level": ""
+                },
+                {
+                    "name": "\u526f\u4e3b\u4efb",
+                    "level": ""
+                }
+            ],
+            "children": []
+        },
+        {
+            "department": "\u4e2d\u570b\u5e38\u99d0\u806f\u5408\u570b\u4ee3\u8868\u5718\u8ecd\u4e8b\u53c3\u8b00\u5718",
+            "position": [
+                {
+                    "name": "\u5718\u9577",
+                    "level": ""
+                },
+                {
+                    "name": "\u526f\u5718\u9577",
+                    "level": ""
+                }
+            ],
+            "children": []
+        }
+    ]
+}
